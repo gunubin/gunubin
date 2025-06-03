@@ -52,10 +52,4 @@
   <img src="https://github-profile-trophy.vercel.app/?username=gunubin&theme=onedark&margin-w=15" />
 </p>
 
----
 
-## 👁️‍🗨️ View Count
-
-<p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/gunubin&title=Profile+Views&edge_flat=true&icon=github" />
-</p>

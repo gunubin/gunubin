@@ -22,7 +22,6 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust)
 
 ---
 

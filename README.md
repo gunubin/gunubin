@@ -2,10 +2,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gunubin&style=flat-square&color=1e1e2e&label=Profile+Views" alt="Profile Views" />
-  &nbsp;
-  <a href="https://x.com/gunubin">
-    <img src="https://img.shields.io/badge/@gunubin-000000?style=flat-square&logo=x&logoColor=white" alt="X" />
-  </a>
 </p>
 
 <br />
@@ -64,9 +60,9 @@ $ cat interests.txt
 ## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gunubin&show_icons=true&theme=catppuccin_mocha&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gunubin&show_icons=true&theme=catppuccin_mocha&hide_border=true" />
   &nbsp;
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunubin&layout=compact&theme=catppuccin_mocha&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gunubin&layout=compact&theme=catppuccin_mocha&hide_border=true" />
 </p>
 
 <p align="center">

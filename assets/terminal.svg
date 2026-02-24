@@ -1,0 +1,128 @@
+<svg width="800" height="320" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .bg { fill: #1e1e2e; }
+    .titlebar { fill: #181825; }
+    .title { fill: #6c7086; font-family: 'Courier New', monospace; font-size: 12px; }
+    .keyword { fill: #cba6f7; font-family: 'Courier New', monospace; font-size: 15px; }
+    .type { fill: #f9e2af; font-family: 'Courier New', monospace; font-size: 15px; }
+    .prop { fill: #89b4fa; font-family: 'Courier New', monospace; font-size: 15px; }
+    .string { fill: #a6e3a1; font-family: 'Courier New', monospace; font-size: 15px; }
+    .punct { fill: #cdd6f4; font-family: 'Courier New', monospace; font-size: 15px; }
+    .comment { fill: #6c7086; font-family: 'Courier New', monospace; font-size: 15px; font-style: italic; }
+    .func { fill: #fab387; font-family: 'Courier New', monospace; font-size: 15px; }
+    .dot-red { fill: #f38ba8; }
+    .dot-yellow { fill: #f9e2af; }
+    .dot-green { fill: #a6e3a1; }
+    .line-num { fill: #45475a; font-family: 'Courier New', monospace; font-size: 15px; }
+  </style>
+
+  <!-- Window frame -->
+  <rect class="bg" width="800" height="320" rx="10" ry="10" />
+
+  <!-- Title bar -->
+  <rect class="titlebar" width="800" height="36" rx="10" ry="10" />
+  <rect class="titlebar" width="800" height="16" y="20" />
+
+  <!-- Traffic light dots -->
+  <circle class="dot-red" cx="24" cy="18" r="6" />
+  <circle class="dot-yellow" cx="44" cy="18" r="6" />
+  <circle class="dot-green" cx="64" cy="18" r="6" />
+
+  <!-- Title -->
+  <text class="title" x="400" y="22" text-anchor="middle">about.ts — gunubin</text>
+
+  <!-- Line 1: comment -->
+  <text y="66">
+    <tspan class="line-num" x="20"> 1</tspan>
+    <tspan class="comment" x="52">// about.ts</tspan>
+  </text>
+
+  <!-- Line 2: const engineer -->
+  <text y="90">
+    <tspan class="line-num" x="20"> 2</tspan>
+    <tspan class="keyword" x="52">const</tspan>
+    <tspan class="punct"> engineer</tspan>
+    <tspan class="keyword">:</tspan>
+    <tspan class="type"> Engineer</tspan>
+    <tspan class="punct"> = {</tspan>
+  </text>
+
+  <!-- Line 3: name -->
+  <text y="114">
+    <tspan class="line-num" x="20"> 3</tspan>
+    <tspan class="prop" x="70">name</tspan>
+    <tspan class="keyword">:</tspan>
+    <tspan class="string"> "gunubin"</tspan>
+    <tspan class="punct">,</tspan>
+  </text>
+
+  <!-- Line 4: role -->
+  <text y="138">
+    <tspan class="line-num" x="20"> 4</tspan>
+    <tspan class="prop" x="70">role</tspan>
+    <tspan class="keyword">:</tspan>
+    <tspan class="string"> "Software Engineer"</tspan>
+    <tspan class="punct">,</tspan>
+  </text>
+
+  <!-- Line 5: focus -->
+  <text y="162">
+    <tspan class="line-num" x="20"> 5</tspan>
+    <tspan class="prop" x="70">focus</tspan>
+    <tspan class="keyword">:</tspan>
+    <tspan class="punct"> [</tspan>
+    <tspan class="string">"frontend"</tspan>
+    <tspan class="punct">, </tspan>
+    <tspan class="string">"mobile"</tspan>
+    <tspan class="punct">, </tspan>
+    <tspan class="string">"developer tooling"</tspan>
+    <tspan class="punct">],</tspan>
+  </text>
+
+  <!-- Line 6: tools -->
+  <text y="186">
+    <tspan class="line-num" x="20"> 6</tspan>
+    <tspan class="prop" x="70">tools</tspan>
+    <tspan class="keyword">:</tspan>
+    <tspan class="punct"> [</tspan>
+    <tspan class="string">"React"</tspan>
+    <tspan class="punct">, </tspan>
+    <tspan class="string">"Expo"</tspan>
+    <tspan class="punct">, </tspan>
+    <tspan class="string">"TypeScript"</tspan>
+    <tspan class="punct">, </tspan>
+    <tspan class="string">"Rust"</tspan>
+    <tspan class="punct">],</tspan>
+  </text>
+
+  <!-- Line 7: passion -->
+  <text y="210">
+    <tspan class="line-num" x="20"> 7</tspan>
+    <tspan class="prop" x="70">passion</tspan>
+    <tspan class="keyword">:</tspan>
+    <tspan class="string"> "Clean architecture &amp; great DX"</tspan>
+    <tspan class="punct">,</tspan>
+  </text>
+
+  <!-- Line 8: currently -->
+  <text y="234">
+    <tspan class="line-num" x="20"> 8</tspan>
+    <tspan class="prop" x="70">currently</tspan>
+    <tspan class="keyword">:</tspan>
+    <tspan class="string"> "Building CLI tools &amp; MCP servers"</tspan>
+    <tspan class="punct">,</tspan>
+  </text>
+
+  <!-- Line 9: closing brace -->
+  <text y="258">
+    <tspan class="line-num" x="20"> 9</tspan>
+    <tspan class="punct" x="52">};</tspan>
+  </text>
+
+  <!-- Line 10: export -->
+  <text y="282">
+    <tspan class="line-num" x="20">10</tspan>
+    <tspan class="keyword" x="52">export default</tspan>
+    <tspan class="punct"> engineer;</tspan>
+  </text>
+</svg>

@@ -7,7 +7,7 @@
 <br />
 
 <p align="center">
-  <img src="./assets/terminal.gif" alt="Terminal" />
+  <img src="./assets/terminal.svg" alt="Terminal" />
 </p>
 
 <br />

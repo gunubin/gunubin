@@ -60,9 +60,9 @@ $ cat interests.txt
 ## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gunubin&show_icons=true&theme=catppuccin_mocha&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gunubin&show_icons=true&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&icon_color=94e2d5&ring_color=cba6f7" />
   &nbsp;
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gunubin&layout=compact&theme=catppuccin_mocha&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gunubin&layout=compact&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4" />
 </p>
 
 <p align="center">

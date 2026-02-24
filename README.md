@@ -6,15 +6,9 @@
 
 <br />
 
-```text
-$ whoami
-> Software Engineer focused on frontend, mobile, and developer tooling.
-
-$ cat interests.txt
-> Building with the React ecosystem, Expo, and modern TypeScript tooling.
-> Writing CLI tools in Rust and shipping MCP servers.
-> Obsessed with clean architecture and great DX.
-```
+<p align="center">
+  <img src="./assets/terminal.gif" alt="Terminal" />
+</p>
 
 <br />
 

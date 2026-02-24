@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:11111b,50:1e1e2e,100:313244&height=250&section=header&text=gunubin&fontSize=42&fontColor=cba6f7&fontAlignY=35&desc=Software%20Engineer&descSize=18&descColor=cdd6f4&descAlignY=52&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:89b4fa,100:eba0ac&height=250&section=header&text=gunubin&fontSize=42&fontColor=1e1e2e&fontAlignY=35&desc=Software%20Engineer&descSize=18&descColor=313244&descAlignY=52&animation=fadeIn" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gunubin&style=flat-square&color=1e1e2e&label=Profile+Views" alt="Profile Views" />
@@ -73,4 +73,4 @@ $ cat interests.txt
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gunubin&bg_color=1e1e2e&color=cdd6f4&line=cba6f7&point=94e2d5&area_color=cba6f7&area=true&hide_border=true" />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:11111b,50:1e1e2e,100:313244&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:eba0ac,100:89b4fa&height=120&section=footer" />

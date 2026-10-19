@@ -19,19 +19,11 @@ I write about what I make as **きつね (kki2ne)** on [mono-and.blog](https://m
 
 <br />
 
-## Featured Projects
+## Just for Fun
 
 <a href="https://github.com/gunubin/clawd-in-ghostty"><img src="https://raw.githubusercontent.com/gunubin/clawd-in-ghostty/main/assets/demo.gif" width="100%" alt="clawd-in-ghostty demo" /></a>
 
-
-| Project | What it does |
-|---|---|
-| [clawd-in-ghostty](https://github.com/gunubin/clawd-in-ghostty) | Clawd, the Claude Code mascot, lives in your tmux panes while Claude works. A single Ghostty shader. |
-| [claude-panes](https://github.com/gunubin/claude-panes) | TUI dashboard to monitor and switch between Claude Code tmux sessions. Rust. |
-| [cc-pick](https://github.com/gunubin/cc-pick) | Interactive CLI for configuring Claude Code MCP servers and plugins per project. `npx @gunubin/cc-pick` |
-| [intent](https://github.com/gunubin/intent) | Version control for intent: tracks the decisions and friction behind AI-assisted development. |
-| [redline-ai](https://github.com/gunubin/redline-ai) | Inline AI editing for local files. Preview in the browser, select text, tell the agent what to change. |
-| [dotfiles](https://github.com/gunubin/dotfiles) | fish, tmux, Neovim, Ghostty and Claude Code hooks, managed with GNU Stow. |
+[clawd-in-ghostty](https://github.com/gunubin/clawd-in-ghostty): Clawd walks around my tmux panes while Claude Code works. A Ghostty shader I made for my own terminal.
 
 <br />
 

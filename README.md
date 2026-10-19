@@ -11,6 +11,14 @@ I write about what I make at [mono-and.blog](https://mono-and.blog).
 
 <br />
 
+## Apps
+
+**[NoPace](https://apps.apple.com/app/id6751214242)** is a home upkeep reminder. Log the day you changed a water filter or cleaned the air conditioner, and it schedules the next time from that day. Built with React Native and Expo, rated 4.9 on the Japanese App Store.
+
+[App Store](https://apps.apple.com/app/id6751214242) · [Google Play](https://play.google.com/store/apps/details?id=com.pehebase.nopace.app)
+
+<br />
+
 ## Featured Projects
 
 <a href="https://github.com/gunubin/clawd-in-ghostty"><img src="https://raw.githubusercontent.com/gunubin/clawd-in-ghostty/main/assets/demo.gif" width="100%" alt="clawd-in-ghostty demo" /></a>

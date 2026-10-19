@@ -71,9 +71,9 @@
     <tspan class="prop" x="70">focus</tspan>
     <tspan class="keyword">:</tspan>
     <tspan class="punct"> [</tspan>
-    <tspan class="string">"frontend"</tspan>
-    <tspan class="punct">, </tspan>
     <tspan class="string">"mobile"</tspan>
+    <tspan class="punct">, </tspan>
+    <tspan class="string">"frontend"</tspan>
     <tspan class="punct">, </tspan>
     <tspan class="string">"developer tooling"</tspan>
     <tspan class="punct">],</tspan>
@@ -109,7 +109,7 @@
     <tspan class="line-num" x="20"> 8</tspan>
     <tspan class="prop" x="70">currently</tspan>
     <tspan class="keyword">:</tspan>
-    <tspan class="string"> "Building CLI tools &amp; MCP servers"</tspan>
+    <tspan class="string"> "Shipping mobile apps &amp; Claude Code tooling"</tspan>
     <tspan class="punct">,</tspan>
   </text>
 

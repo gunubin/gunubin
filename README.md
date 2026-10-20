@@ -1,4 +1,4 @@
-# Hi, I'm Koki 👋
+## Hi, I'm Koki 👋
 
 - 📱 I ship my own iOS / Android apps as an indie developer. [NoPace](https://apps.apple.com/app/id6751214242), a home upkeep reminder, is rated 4.9 on the Japanese App Store ([Google Play](https://play.google.com/store/apps/details?id=com.pehebase.nopace.app))
 - 🤖 I build tools around Claude Code and terminal workflows

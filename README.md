@@ -1,9 +1,10 @@
-# Hi, I'm Koki
+# Hi, I'm Koki 👋
 
-I build tools for Claude Code and terminal workflows, and ship my own React Native apps as an indie developer.
-I write about what I make as **きつね (kki2ne)** on [mono-and.blog](https://mono-and.blog) and [Zenn](https://zenn.dev/kki2ne).
-
-## Stack
+- 📱 I ship my own iOS / Android apps as an indie developer. [NoPace](https://apps.apple.com/app/id6751214242), a home upkeep reminder, is rated 4.9 on the Japanese App Store ([Google Play](https://play.google.com/store/apps/details?id=com.pehebase.nopace.app))
+- 🤖 I build tools around Claude Code and terminal workflows
+- ✍️ I write as **きつね (kki2ne)** on [mono-and.blog](https://mono-and.blog) and [Zenn](https://zenn.dev/kki2ne)
+- 🦑 Just for fun, [clawd-in-ghostty](https://github.com/gunubin/clawd-in-ghostty) puts Clawd in my tmux panes while Claude Code works (demo below)
+- 🏔 Based in Hokkaido, Japan
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -14,17 +15,4 @@ I write about what I make as **きつね (kki2ne)** on [mono-and.blog](https://m
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 
-## Apps
-
-<img src="./assets/nopace-icon.png" width="72" align="left" alt="NoPace app icon" />
-
-**[NoPace](https://apps.apple.com/app/id6751214242)**: a home upkeep reminder. Log the day you changed a water filter or cleaned the air conditioner, and it schedules the next time from that day. Rated 4.9 on the Japanese App Store.<br />
-[App Store](https://apps.apple.com/app/id6751214242) · [Google Play](https://play.google.com/store/apps/details?id=com.pehebase.nopace.app)
-
-<br clear="left" />
-
-## Just for Fun
-
 <a href="https://github.com/gunubin/clawd-in-ghostty"><img src="https://raw.githubusercontent.com/gunubin/clawd-in-ghostty/main/assets/demo.gif" width="100%" alt="clawd-in-ghostty demo" /></a>
-
-[clawd-in-ghostty](https://github.com/gunubin/clawd-in-ghostty): Clawd walks around my tmux panes while Claude Code works. A Ghostty shader I made for my own terminal.

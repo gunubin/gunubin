@@ -5,7 +5,7 @@ I write about what I make as **きつね (kki2ne)** on [mono-and.blog](https://m
 
 ## Stack
 
-TypeScript · React Native · Expo · React · Next.js · Hono · Supabase · Rust
+<img src="./assets/stack.svg" height="40" alt="TypeScript, React / React Native, Expo, Next.js, Hono, Supabase, Rust" />
 
 ## Apps
 

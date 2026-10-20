@@ -6,7 +6,7 @@
 
 <br />
 
-I build tools for Claude Code and terminal workflows, and ship React Native apps at [@shanord-inc](https://github.com/shanord-inc).
+I build tools for Claude Code and terminal workflows, and ship my own React Native apps as an indie developer.
 I write about what I make as **きつね (kki2ne)** on [mono-and.blog](https://mono-and.blog) and [Zenn](https://zenn.dev/kki2ne).
 
 <br />

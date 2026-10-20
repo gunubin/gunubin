@@ -3,6 +3,10 @@
 I build tools for Claude Code and terminal workflows, and ship my own React Native apps as an indie developer.
 I write about what I make as **きつね (kki2ne)** on [mono-and.blog](https://mono-and.blog) and [Zenn](https://zenn.dev/kki2ne).
 
+## Stack
+
+TypeScript · React Native · Expo · React · Next.js · Hono · Supabase · Rust
+
 ## Apps
 
 <img src="./assets/nopace-icon.png" width="72" align="left" alt="NoPace app icon" />
@@ -17,7 +21,3 @@ I write about what I make as **きつね (kki2ne)** on [mono-and.blog](https://m
 <a href="https://github.com/gunubin/clawd-in-ghostty"><img src="https://raw.githubusercontent.com/gunubin/clawd-in-ghostty/main/assets/demo.gif" width="100%" alt="clawd-in-ghostty demo" /></a>
 
 [clawd-in-ghostty](https://github.com/gunubin/clawd-in-ghostty): Clawd walks around my tmux panes while Claude Code works. A Ghostty shader I made for my own terminal.
-
-## Stack
-
-TypeScript · React Native · Expo · React · Next.js · Hono · Supabase · Rust

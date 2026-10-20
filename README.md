@@ -2,7 +2,7 @@
 
 - 📱 I ship my own iOS / Android apps as an indie developer. [NoPace](https://apps.apple.com/app/id6751214242), a home upkeep reminder, is rated 4.9 on the Japanese App Store ([Google Play](https://play.google.com/store/apps/details?id=com.pehebase.nopace.app))
 - 🤖 I build tools around Claude Code and terminal workflows
-- ✍️ I write as **きつね (kki2ne)** on [mono-and.blog](https://mono-and.blog) and [Zenn](https://zenn.dev/kki2ne)
+- ✍️ I write on [mono-and.blog](https://mono-and.blog) and [Zenn](https://zenn.dev/kki2ne)
 - 🦑 Just for fun, [clawd-in-ghostty](https://github.com/gunubin/clawd-in-ghostty) puts Clawd in my tmux panes while Claude Code works (demo below)
 - 🏔 Based in Hokkaido, Japan
 
